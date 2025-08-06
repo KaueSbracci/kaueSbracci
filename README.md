@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**KaueSbracci/kaueSbracci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Kaue e estou em transição para a área de tecnologia, com base também em administração.  
+Aqui você encontra projetos que mostram meu aprendizado prático em diferentes linguagens e ferramentas.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos em destaque:
+- [Projeto X](link) – Descreva brevemente o que é.
+- [Projeto Y](link) – Outro exemplo legal.
+
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/seu-perfil)
