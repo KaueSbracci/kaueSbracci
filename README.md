@@ -13,4 +13,4 @@ Aqui você encontra projetos que mostram meu aprendizado prático em diferentes 
 - [Projeto X](link) – Descreva brevemente o que é.
 - [Projeto Y](link) – Outro exemplo legal.
 
-📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/kaue-vieira-de-paula-sbracci-a31466262/)
