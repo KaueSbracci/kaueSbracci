@@ -1,16 +1,18 @@
-# Olá! 👋
+# 👋 Olá! Eu sou o Kaue Vieira de Paula Sbracci
 
-Me chamo Kaue e estou em transição para a área de tecnologia, com base também em administração.  
-Aqui você encontra projetos que mostram meu aprendizado prático em diferentes linguagens e ferramentas.
+Sou um entusiasta da área de dados com perfil proativo e focado em constante evolução. Estou construindo meu portfólio com base em projetos práticos e estudo constante de tecnologias.
 
-## 🛠 Tecnologias que estou aprendendo:
-- HTML, CSS, JavaScript
-- Git e GitHub
-- Python
-- SQL
+## 🚀 Tecnologias que estou aprendendo:
+- React
+- JavaScript (ES6+)
+- HTML5 & CSS3
 
-## 🌟 Projetos em destaque:
-- [Projeto X](link) – Descreva brevemente o que é.
-- [Projeto Y](link) – Outro exemplo legal.
+## 🎯 Áreas de Interesse:
+- Análise e Visualização de Dados
+- Desenvolvimento Front-end com foco em dados
 
-📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/kaue-vieira-de-paula-sbracci-a31466262/)
+## 📫 Contato:
+- Email: kauelucca1310@gmail.com
+- Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/kaue-vieira-de-paula-sbracci-a31466262/)
+
+*Este perfil está em constante construção com novos projetos e aprendizados sendo adicionados.*
