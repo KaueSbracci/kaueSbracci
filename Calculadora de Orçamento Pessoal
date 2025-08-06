@@ -1,0 +1,25 @@
+# 💰 Calculadora de Orçamento Pessoal
+
+Este é um projeto de aplicação web simples que permite ao usuário registrar suas despesas e visualizar um resumo mensal. Foi meu **primeiro projeto utilizando React**, com foco em aplicar os conceitos fundamentais do desenvolvimento front-end.
+
+## ✨ Funcionalidades
+- Registro de despesas
+- Resumo mensal dos gastos
+- Interface simples e responsiva
+
+## 🧰 Tecnologias utilizadas
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## 📚 O que aprendi
+- **Gerenciamento de Estado:** Utilização do hook `useState` para controlar os dados da aplicação de forma reativa.
+- **Componentização:** Criação e reutilização de componentes de UI, como `Botao` e `Input`.
+- **Props:** Passagem de dados e funções entre componentes pai e filho.
+- **Renderização Condicional:** Lógica para exibir diferentes partes da interface com base no estado da aplicação.
+
+## 📌 Status do Projeto
+Em desenvolvimento
+
+> Este projeto é parte do meu processo de aprendizado e será evoluído com novas funcionalidades no futuro.
